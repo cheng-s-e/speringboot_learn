@@ -1,4 +1,4 @@
-package com.dcc.springboot_learn;
+package com.dcc;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
